@@ -1,3 +1,11 @@
+.banner {
+    background: linear-gradient(to left bottom, #361600, #5c4629, #7b4a01, #8c4f00, #93630b);
+    background-size: cover;
+    background-position: center;
+    padding-top: 190px;
+    padding-bottom: 170px;
+}
+
 .banner-image {
     background-size: cover;
     background-position: center;
@@ -13,4 +21,5 @@
 
 .banner-intro {
     // position: absolute;
+    text-align: center;
 }

@@ -1,7 +1,9 @@
 .profile-large {
-    background-size: cover;
-    background-position: center;
-    // background-image: initial;
-    // padding: 10px 0;
-    width: 20vw;
+    position: relative;
+    top: 35px;
+    width: 25vw;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.3);
+    border: white 5px solid;
+    // margin-bottom: 15px;
 }
+
